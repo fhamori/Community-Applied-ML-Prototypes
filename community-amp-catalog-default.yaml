@@ -18,7 +18,7 @@ entries:
     is_community: true
     is_new: true
   - title: Not New Text Summarization using IBM watsonx.ai
-    label: CML_AMP_watsonxai
+    label: CML_AMP_watsonxai1
     short_description: |
         This repository demonstrates how to use watson machine learning Python SDK to call watsonx.ai models from Cloudera Machine Learning (CML) workspace.
     long_description: |
@@ -33,8 +33,8 @@ entries:
     is_prototype: true
     is_community: true
     is_new: false
-  - title: Not New Text Summarization using IBM watsonx.ai w/o tags
-    label: CML_AMP_watsonxai not new
+  - title: This is something for testing purposes
+    label: This is something for testing purposes
     short_description: |
         This repository demonstrates how to use watson machine learning Python SDK to call watsonx.ai models from Cloudera Machine Learning (CML) workspace.
     long_description: |
