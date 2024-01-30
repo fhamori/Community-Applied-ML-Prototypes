@@ -16,7 +16,7 @@ entries:
     is_prototype: true
     is_community: true
   - title: This is something for testing purposes
-    label: This is something for testing purposes
+    label: This-is-something-for-testing-purposes
     short_description: |
         This repository demonstrates how to use watson machine learning Python SDK to call watsonx.ai models from Cloudera Machine Learning (CML) workspace.
     long_description: |
