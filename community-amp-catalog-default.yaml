@@ -1,4 +1,4 @@
-name: Ferenc's Community AMPs
+name: Ferencs Community AMPs
 
 entries:
   - title: Text to Image Using Stable Diffusion
@@ -33,7 +33,7 @@ entries:
     is_community: true
     is_new: false
   - title: Not New Text Summarization using IBM watsonx.ai w/o tags
-    label: CML_AMP_watsonxai
+    label: CML_AMP_watsonxai not new
     short_description: |
         This repository demonstrates how to use watson machine learning Python SDK to call watsonx.ai models from Cloudera Machine Learning (CML) workspace.
     long_description: |
