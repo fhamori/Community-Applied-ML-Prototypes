@@ -1,5 +1,6 @@
 name: Ferencs Community AMPs
 
+
 entries:
   - title: Text to Image Using Stable Diffusion
     label: CML_AMP-Text-to-Image-with-Stable-Diffusion
