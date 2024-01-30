@@ -15,18 +15,6 @@ entries:
     git_url: 'https://github.com/kevinbtalbert/CML_AMP-Text-to-Image-with-Stable-Diffusion'
     is_prototype: true
     is_community: true
-  - title: This is something for testing purposes
-    label: This-is-something-for-testing-purposes
-    short_description: |
-        This repository demonstrates how to use watson machine learning Python SDK to call watsonx.ai models from Cloudera Machine Learning (CML) workspace.
-    long_description: |
-        This repository demonstrates how to use watson machine learning Python SDK to call watsonx.ai models from Cloudera Machine Learning (CML) workspace.
-    long_description_html: |
-        This repository demonstrates how to use watson machine learning Python SDK to call watsonx.ai models from Cloudera Machine Learning (CML) workspace.
-    git_url: 'https://github.com/agupta-git/CML_AMP_watsonxai'
-    is_prototype: true
-    is_community: true
-    is_new: false
   - title: This is something for testing purposes2
     label: This-is-something-for-testing-purposes2
     short_description: |
